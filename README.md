@@ -1,6 +1,6 @@
 ### Fall 2024, AS.171.501 Physics Independent Research  
 # Stability of Filament Chain Shapes in Brownian Dynamics Simulations 
-### Author: Xinming Shen, Advisor: Prof. Daniel Beller
+### Author: Xinming Shen, Advisor: Prof. Daniel Beller 
 
 
 ## Abstract
